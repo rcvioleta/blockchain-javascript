@@ -1,0 +1,3 @@
+Blockchain - is an immutable, distributed ledger
+Ledger - a collection of financial accounts or transactions
+
